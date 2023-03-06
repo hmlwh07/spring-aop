@@ -11,6 +11,8 @@
     <modules>
         <module>no-aop</module>
         <module>with-aop</module>
+        <module>aop-pointcuts</module>
+        <module>limit-proxy</module>
     </modules>
 
     <properties>
